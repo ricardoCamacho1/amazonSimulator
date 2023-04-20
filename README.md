@@ -1,2 +1,2 @@
 # amazonSimulator
-Program that simulate Amazon in C++
+Program that simulates Amazon in C++
